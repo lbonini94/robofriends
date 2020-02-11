@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project by The Complete Web Developer in 2020: Zero to Mastery (Udemy)
+
 ## Available Scripts
 
 In the project directory, you can run:
